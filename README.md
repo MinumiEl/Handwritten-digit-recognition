@@ -17,19 +17,8 @@ Handwritten digit recognition
 - Основные библиотеки: NumPy, Pandas, TensorFlow / PyTorch, Matplotlib, Scikit-learn
 - Среда разработки: Jupyter Notebook / PyCharm / VS Code
 
-## Установка
-1. Клонировать репозиторий:
-   \`\`\`
-   git clone https://github.com/yourusername/yourproject.git
-   \`\`\`
-2. Установить зависимости:
-   \`\`\`
-   pip install -r requirements.txt
-   \`\`\`
-3. Запустить Jupyter Notebook или скрипт с обучением нейронной сети.
 
-
-Для работы с Kaggle API в Google Colab необходимо:
+## Для работы с Kaggle API в Google Colab необходимо:
 
 1. Создать папку `.kaggle` в домашней директории.
 2. Загрузить файл `kaggle.json` с вашими учетными данными Kaggle в рабочую директорию Colab.
